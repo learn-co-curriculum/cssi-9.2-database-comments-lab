@@ -27,3 +27,5 @@ This lab will expand your blog capabilities!  After this lab you will be able to
 + Add an email field
 + Try to flip the relationship and store the single post on each comment
   + How does this change your needs on the front end?
+
+<a href='https://learn.co/lessons/cssi-9.2-database-comments-lab' data-visibility='hidden'>View this lesson on Learn.co</a>
